@@ -1,0 +1,7 @@
+LIST OF REFERENCES
+1. Webite: https://seaborn.pydata.org/
+2. Website: https://www.kaggle.com/
+3  Website :https://healthitanalytics.com/news/predictive-analytics-ehr-data-identify-appointment-no-shows
+4. Website: https://matplotlib.org/
+5. Github: ksatola/Medical-Appointments-No-Shows
+6. Youtube: https://www.youtube.com/watch?v=TUgU_1DE9z4
